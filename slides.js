@@ -1,32 +1,32 @@
 const slides = [
     {
-        src: 'images/lighthouse.jpg',
-        url: 'http://www.spainisculture.com/en/propuestas_culturales/faros_de_galicia_los_guardianes_del_fin_del_mundo.html',
-        caption: 'Galicia Lighthouse'
+        src: 'images/athens.jpg',
+        url: 'https://www.visitgreece.gr/mainland/attica/athens/',
+        caption: 'Athens, Greece'
     }, 
     {
-        src: 'images/asturiasHorreo.jpg',
-        url: 'https://en.wikipedia.org/wiki/H%C3%B3rreo', 
-        caption:  "Asturias Horreo"
+        src: 'images/corfu.jpg',
+        url: 'https://www.visitgreece.gr/islands/ionian-islands/corfu/', 
+        caption:  "Corfu, Greece"
     }, 
     {
-        src: 'images/Picos-de-Europa-potes.jpg',
-        url: 'https://www.spainthisway.com/places/potes.php',
-        caption:  'Potes, Cantabria'
+        src: 'images/Meteora.jpg',
+        url: 'https://meteora.com/meteora-monasteries/',
+        caption:  'Meteora, Greece'
     },
     {
-    src: 'images/mogrovejo.jpg',
-    url: 'https://en.wikipedia.org/wiki/Mogrovejo',
-    caption: 'Mogrovejo, Cantabria'
+        src: 'images/mykonos.jpg',
+        url: 'https://www.visitgreece.gr/islands/cyclades/mykonos/',
+        caption: 'Mykonos, Greece'
     },
     {
-        src: 'images/leon.jpg',
-        url: 'https://www.123rf.com/photo_17050812_countryside-of-burgos-castilla-y-leon-spain.html',
-        caption: 'Burgos, Castilla y Leon'
+        src: 'images/symi.jpg',
+        url: 'https://www.visitgreece.gr/islands/dodecanese/symi/',
+        caption: 'Symi, Greece'
         },
       {
-        src: 'images/galiciaCoast.jpg',
-        url: 'https://www.travelawaits.com/2549962/places-to-explore-in-galicia-spain/',
-        caption: 'Galicia Coast'
+        src: 'images/Santorini.jpg',
+        url: 'https://www.visitgreece.gr/islands/cyclades/santorini/',
+        caption: 'Santorini, Greece'
         }
     ]; 
